@@ -4,4 +4,4 @@
 
 🌱 Working mostly with Python and C++.
 
-📫 U can reach me throu email zosia.szczepaniak@outlook.com
+📫 U can reach me through email zosia.szczepaniak@outlook.com
