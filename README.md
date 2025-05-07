@@ -2,6 +2,6 @@
  
 👀 I'm a Big Data Analytics student.
 
-🌱 Working mostly with Python and C++.
+🌱 Working mostly with R, Python and C++.
 
 📫 U can reach me through email zosia.szczepaniak@outlook.com
