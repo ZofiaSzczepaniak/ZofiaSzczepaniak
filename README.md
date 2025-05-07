@@ -2,6 +2,8 @@
  
 👀 I'm a Big Data Analytics student.
 
+:black_nib: Recently been working on deepfake detection for my master's thesis. 
+
 🌱 Working mostly with R, Python and C++.
 
 📫 U can reach me through email zosia.szczepaniak@outlook.com
