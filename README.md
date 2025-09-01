@@ -4,6 +4,6 @@
 
 :black_nib: Recently been working on deepfake detection for my master's thesis. 
 
-🌱 Working mostly with R, Python and C++.
+🌱 Working mostly with R and Python.
 
 📫 U can reach me through email zosia.szczepaniak@outlook.com
