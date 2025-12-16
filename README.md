@@ -1,8 +1,8 @@
  Hi, I’m Zofia Szczepaniak.
  
-👀 I'm a Big Data Analytics student.
+👀 I'm a Big Data Analytics graduate.
 
-:black_nib: Recently been working on deepfake detection for my master's thesis. 
+:black_nib: Recent interests: Data Science, Data Analysis, ML
 
 🌱 Working mostly with R and Python.
 
